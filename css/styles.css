@@ -11109,7 +11109,11 @@ html {
   position:relative
 }
 
-
+.custom-border{
+  border: 5px solid #000;
+  border-radius: 1rem;
+  border-color: #000;
+}
 /*.bg1{
   background:url(/assets/img/portfolio/cabin.png);
 
